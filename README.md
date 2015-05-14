@@ -1,0 +1,2 @@
+# Image_Processing_Project
+This project takes geographical image data held within a 2D array, calling on methods from other classes to display the array visually, and apply an image processing technique, namely the mean filtering method, to the data. The project comprises two main classes; the ‘Analyst’ class, which can be used to process geographical image data held within a 2D array; and the ‘DataReader’ class, which contains a 2D data array that can be used to store geographical image data. 
